@@ -284,11 +284,15 @@ git push -u origin main
 git remote add origin "https://USER:TOKEN@github.com/USER/REPO.git"
 \`\`\`
 
-Checkpoint: spirit sync
+Checkpoint:
+\`\`\`bash
+spirit sync
+\`\`\`
 
-## Auto-Install
-The install.sh script always fetches the latest release from GitHub.
-No version pinning—always latest.
+## Install
+\`\`\`bash
+brew install TheOrionAI/tap/spirit
+\`\`\`
 
 ## Security
 ⚠️ PRIVATE repositories required.
