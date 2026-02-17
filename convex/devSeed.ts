@@ -300,7 +300,7 @@ brew install TheOrionAI/tap/spirit
 ⚠️ PRIVATE repositories required.
 ⚠️ Inline tokens expose credentials. Use credential helper, gh auth login, or env vars.
 See: https://theorionai.github.io/spirit/
-'`,
+`,
   },
 ]
 
