@@ -272,7 +272,9 @@ Preserves AI agent state (identity, memory, projects) using SPIRIT CLI.
 - Restore → New server resurrection
 
 ## Quick Commands
-Initialize: spirit init --name="agent" --emoji="🌌"
+\`\`\`bash
+spirit init --name="agent" --emoji="🌌"
+\`\`\`
 Configure:
 \`\`\`bash
 # Option 1: Git credential helper (RECOMMENDED)
