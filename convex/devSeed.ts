@@ -261,6 +261,7 @@ xuezh audio process-voice --file ./utterance.wav
 name: spirit
 description: Resurrect your AI agent anywhere. Preserves identity, memory, and projects so when your server dies or you migrate, your agent is always you. Use when (1) Session ending, (2) User asks to backup/preserve state, (3) Setting up SPIRIT, or (4) Restoring on a new server.
 ---
+
 # SPIRIT Skill
 
 Preserves AI agent state (identity, memory, projects) using SPIRIT CLI.
